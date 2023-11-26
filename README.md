@@ -14,7 +14,9 @@ For miniImagenet and CUB200, you can download from [here](https://drive.google.c
     $ tar -xvf miniimagenet.tar 
     $ tar -xvzf CUB_200_2011.tgz
 
+## Checkpoints
 
+You can download the checkpoints from [here](https://github.com/esmhcism/aversion.git).
 
 ## Testing scripts
 cifar100
