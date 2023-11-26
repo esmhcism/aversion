@@ -14,9 +14,6 @@ For miniImagenet and CUB200, you can download from [here](https://drive.google.c
     $ tar -xvf miniimagenet.tar 
     $ tar -xvzf CUB_200_2011.tgz
 
-## Checkpoints
-
-For the checkpoints of the three datasets, you can download from [here](https://drive.google.com/drive/folders/1OFGKDT1FRIO2VKYtoABGu8xjwJjH9Hd4?usp=drive_link).
 
 
 ## Testing scripts
