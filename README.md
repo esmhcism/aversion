@@ -9,7 +9,7 @@ conda env create -f environment.yml
 ## Datasets
 We follow [FSCIL](https://github.com/xyutao/fscil) setting to use the same data index_list for training.  
 For CIFAR100, the dataset will be download automatically.  
-For miniImagenet and CUB200, you can download from [here](https://drive.google.com/drive/folders/11LxZCQj2FRCs0JTsf_dafvTHqFn2yGSN?usp=sharing). Please put the downloaded file under `data/` folder and unzip it:
+For miniImagenet and CUB200, you can download from [CEC](https://drive.google.com/drive/folders/11LxZCQj2FRCs0JTsf_dafvTHqFn2yGSN?usp=sharing). Please put the downloaded file under `data/` folder and unzip it:
     
     $ tar -xvf miniimagenet.tar 
     $ tar -xvzf CUB_200_2011.tgz
